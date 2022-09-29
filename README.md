@@ -30,9 +30,9 @@ our approach’s effectiveness and demonstrate our detector’s superior perform
 ## Main Results
 * Results on DOTA
 
-| Method  | Dataset  | Backbone   | Input Size  | mAP  |
+|  Method |  Dataset |  Backbone  |  Input Size |  mAP |
 | ------- | -------- | ---------- | ----------- | ---- |
-| SE2-Det | HRSC2016 | ResNet-50  | 1024 x 1024 | 76.4 |
+| SE2-Det | DOTA 1.0 | ResNet-101 | 1024 x 1024 | 76.4 |
 | SE2-Det | UCAS-AOD | ResNet-101 |  800 x 800  | 90.0 |
 
 * Visualization results on the test set of DOTA.
